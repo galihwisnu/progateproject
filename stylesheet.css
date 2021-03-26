@@ -1,5 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
+  height: 100vh;
 }
 
 .container {
@@ -22,6 +23,13 @@ input, textarea {
   padding: 10px;
   font-size: 18px;
   border: 1px solid #dee7ec;
+}
+
+
+.contact-submit:hover {
+  color: green;
+  background-color: white;
+  cursor: pointer;
 }
 
 .contact-submit {
