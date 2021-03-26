@@ -1,0 +1,18 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+  .map {
+    padding-top: 50px;
+    float: left;
+  }
+  
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+  .map {
+    padding-top: 50px;
+    float: left;
+  }  
+}
