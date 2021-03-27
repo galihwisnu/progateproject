@@ -16,7 +16,7 @@
     float: left;
   }
 
-  input textarea {
+  input, textarea {
     width: 100%;
   }
 
