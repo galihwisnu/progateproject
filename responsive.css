@@ -3,12 +3,7 @@
   .map {
     padding-top: 50px;
     float: left;
-  }
-
-  input, textarea {
-    width: 650px;
-  }
-  
+  } 
 }
 
 
@@ -18,10 +13,4 @@
     padding-top: 50px;
     float: left;
   }
-
-  input, textarea {
-    width: 650px;
-  }
-
-
 }
