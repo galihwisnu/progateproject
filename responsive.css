@@ -1,4 +1,4 @@
-/* Untuk Tablet */
+
 @media all and (max-width: 1000px) {
 
   .map {
@@ -8,11 +8,16 @@
   
 }
 
-/* Untuk Smartphone */
+
 @media all and (max-width: 670px) {
 
   .map {
     padding-top: 50px;
     float: left;
-  }  
+  }
+
+  input textarea {
+    width: 100%;
+  }
+
 }
