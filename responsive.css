@@ -6,13 +6,9 @@
     width: 100%;
   }
 
-  .coontact-form {
-    float: none;
-  }
-
   input, textarea {
     width: 850px;
-}
+  }
   
 }
 
