@@ -1,10 +1,19 @@
-
-@media all and (max-width: 1000px) {
+@media all and (max-width: 1170px) {
 
   .map {
     padding-top: 50px;
     float: left;
+    width: 100%;
   }
+
+  .coontact-form {
+  	float: none;
+  }
+
+  input, textarea {
+	  width: 650px;
+	  display: inline-block;
+}
   
 }
 
@@ -14,10 +23,12 @@
   .map {
     padding-top: 50px;
     float: left;
+    width: 100%;
   }
 
   input, textarea {
-    width: 100%;
-  }
+  width: 100%;
+}
+
 
 }
