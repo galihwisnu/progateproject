@@ -42,6 +42,7 @@ input, textarea {
   border-radius: 4px;
   cursor: pointer;
   box-shadow: 0 5px #1a7940;
+  transition: all 0.5s;
 }
 
 .map {
