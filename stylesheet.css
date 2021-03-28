@@ -1,0 +1,50 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  padding: 100px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.contact-form {
+  float: left;
+}
+
+input, textarea {
+  width: 450px;
+  margin: 10px 0 30px 0;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.contact-submit:hover {
+  opacity: 0.75;
+}
+
+.contact-submit:active {
+  position: relative;
+  top: 5px;
+  box-shadow: none;
+}
+
+.contact-submit {
+  background-color: #5dca88;
+  color: white;
+  width: 200px;
+  border-radius: 4px;
+  cursor: pointer;
+  box-shadow: 0 5px #1a7940;
+}
+
+.map {
+  float: right;
+}
+

@@ -1,0 +1,35 @@
+@media all and (max-width: 1170px) {
+
+  .map {
+    padding-top: 50px;
+    float: left;
+  }
+
+  iframe {
+   width: 150%;
+   margin-bottom: 40px;
+  }
+}
+
+
+@media all and (max-width: 670px) {
+
+  .container {
+    width: 80%;
+    padding: 30px;
+  }
+
+  .map {
+    padding-top: 20px;
+    float: left;
+    margin-bottom: 50px;
+  }
+  
+  iframe {
+    width: 100%;
+  }
+  
+  input,textarea {
+    width: 100%;
+  }
+ 	}
